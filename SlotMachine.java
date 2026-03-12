@@ -1,3 +1,4 @@
+// STILL IN DEVELOPMENT
 import java.util.Random;
 import java.util.Scanner;
 public class SlotMachine {
@@ -105,4 +106,5 @@ public class SlotMachine {
             };}
         return 0;
     }
+
 }
